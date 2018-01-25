@@ -1,0 +1,186 @@
+# Translation of Themes - Scaffold in Russian
+# This file is distributed under the same license as the Themes - Scaffold package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-10 09:17:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Scaffold\n"
+
+#. Description of the plugin/theme
+msgid "Scaffold is a lightweight starter theme built using core WordPress functions. It doesn't use any frameworks or libraries, this makes it fast, simple and easy to customize!"
+msgstr "Scaffold - легкая базовая тема, построенная с использованием функций WordPress. Она не использует каких-либо фреймворков или библиотек, что делает ее быстрой, простой и легкой для изменения!"
+
+#. Theme Name of the plugin/theme
+msgid "Scaffold"
+msgstr "Scaffold"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Template"
+msgstr "Шаблон на всю ширину страницы"
+
+#: woocommerce/functions.php:19
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: template-parts/menu-1.php:15
+msgid "Site Navigation"
+msgstr "Навигация по сайту"
+
+#: template-parts/content.php:40
+msgid "Continue reading &rarr;"
+msgstr "Читать далее &rarr;"
+
+#: template-parts/content-page.php:34 template-parts/content.php:43
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вы искали. Возможно, поиск может вам помочь."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, совпадений по вашему запросу не найдено. Попробуйте повторить поиск используя другие ключевые слова."
+
+#. translators: %s: link to new post admin screen
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать первую запись? <a href=\"%1$s\">Давайте начнем</a>."
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: %s: the search query
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Результаты поиска по запросу: %s"
+
+#: inc/template-tags.php:118
+msgid "Posts Navigation"
+msgstr "Навигация по записям"
+
+#: inc/template-tags.php:117
+msgid "Newer Posts &rarr;"
+msgstr "Следующие записи &rarr;"
+
+#: inc/template-tags.php:116
+msgid "&larr; Older Posts"
+msgstr "&larr; Предыдущие записи"
+
+#: inc/template-tags.php:102
+msgid "Next Post: <span>%title</span>"
+msgstr "Следующая запись: <span>%title</span>"
+
+#: inc/template-tags.php:101
+msgid "Previous Post: <span>%title</span>"
+msgstr "Предыдущая запись: <span>%title</span>"
+
+#: inc/template-tags.php:86
+msgctxt "number of comments"
+msgid "% Comments"
+msgstr "Комментариев: %"
+
+#: inc/template-tags.php:86
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+#: inc/template-tags.php:86
+msgid "Leave a comment"
+msgstr "Оставьте комментарий"
+
+#: inc/template-tags.php:85
+msgid "Discussion: "
+msgstr "Обсуждение: "
+
+#. translators: %s: tags list
+#: inc/template-tags.php:79
+msgid "Tags: %1$s"
+msgstr "Метки: %1$s"
+
+#. translators: %s: list of categories
+#: inc/template-tags.php:71
+msgid "Categories: %1$s"
+msgstr "Рубрики: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:67 inc/template-tags.php:75
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:53 template-parts/content-page.php:25
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#. translators: %s: link to author archives
+#: inc/template-tags.php:48
+msgctxt "post author"
+msgid "by %s"
+msgstr "%s"
+
+#. translators: %s: link to date archives
+#: inc/template-tags.php:42
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#: functions.php:112
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: functions.php:110
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#. translators: %2$s: theme author.
+#: footer.php:26
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s от %2$s."
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:63
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:60
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+#. translators: %s: post title.
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Один ответ на &ldquo;%s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s ответ на &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s ответа на &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s ответов на &ldquo;%2$s&rdquo;"
+
+#. Author URI of the plugin/theme
+msgid "https://dannycooper.com/"
+msgstr "https://dannycooper.com/"
+
+#. Author of the plugin/theme
+msgid "DannyCooper"
+msgstr "DannyCooper"
+
+#. Theme URI of the plugin/theme
+msgid "https://dannycooper.com/scaffold"
+msgstr "https://dannycooper.com/scaffold"
